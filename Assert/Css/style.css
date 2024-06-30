@@ -4,7 +4,7 @@ html{
   body{
     background-color:#e5f0e3;
  font-family: "Raleway", sans-serif;    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards; 
 }
 @keyframes fadeInAnimation {
     0% {
@@ -271,6 +271,7 @@ h5{
   
   h3{
     font-size: 25px;
+      font-weight:bold;
   }
   h2{
     font-size: 30px;
