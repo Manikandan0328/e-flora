@@ -267,11 +267,12 @@ h5{
 
   h1 {
     font-size: 36px; /* default font size for desktop */
+       font-weight:bold;
   }
   
   h3{
     font-size: 25px;
-      font-weight:bold;
+     
   }
   h2{
     font-size: 30px;
