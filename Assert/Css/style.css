@@ -98,7 +98,7 @@ html{
  .navbar-brand .br{
     color: white;
     font-size:35px;
-    font-weight:bold;
+ font-family: "Fredericka the Great", serif;
  }
  .navbar-nav .nav-item .nav-link{
     padding-right: 25px;
